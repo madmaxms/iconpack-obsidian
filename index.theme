@@ -1,9 +1,8 @@
 [Icon Theme]
-Name=Obsidian
-Inherits=gnome,breeze-dark,hicolor
+Name=Obsidian-green
+Inherits=Obsidian
 Comment=Icon theme project with tilish style, by Tiheum modified by Marcus Wilhelm
-Directories=actions/16,apps/16,web/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,status/16,stock/16,actions/22,apps/22,web/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,status/22,stock/22,actions/24,apps/24,web/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,status/24,stock/24,actions/32,apps/32,web/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,status/32,stock/32,actions/48,apps/48,web/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,categories/64,devices/64,emblems/64,status/64,stock/64,actions/96,apps/96,web/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,status/scalable,stock/scalable
-
+Directories=actions/16,apps/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,status/16,stock/16,actions/22,apps/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,status/22,stock/22,actions/24,apps/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,status/24,stock/24,actions/32,apps/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,status/32,stock/32,actions/48,apps/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,apps/64,categories/64,devices/64,emblems/64,mimetypes/64,places/64,status/64,stock/64,actions/96,apps/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,status/scalable,stock/scalable
 
 KDE-Extensions=.svg
 
@@ -13,11 +12,6 @@ Context=Actions
 Type=fixed
 
 [apps/16]
-Size=16
-Context=Applications
-Type=fixed
-
-[web/16]
 Size=16
 Context=Applications
 Type=fixed
@@ -40,13 +34,14 @@ Type=fixed
 [mimetypes/16]
 Size=16
 Context=MimeTypes
-Type=Fixed
-MinSize=16
+Type=fixed
 
 [places/16]
 Size=16
 Context=Places
-Type=fixed
+Type=Scalable
+MinSize=16
+MaxSize=22
 
 [status/16]
 Size=16
@@ -64,11 +59,6 @@ Context=Actions
 Type=fixed
 
 [apps/22]
-Size=22
-Context=Applications
-Type=fixed
-
-[web/22]
 Size=22
 Context=Applications
 Type=fixed
@@ -119,11 +109,6 @@ Size=24
 Context=Applications
 Type=fixed
 
-[web/24]
-Size=24
-Context=Applications
-Type=fixed
-
 [categories/24]
 Size=24
 Context=Categories
@@ -166,11 +151,6 @@ Context=Actions
 Type=fixed
 
 [apps/32]
-Size=32
-Context=Applications
-Type=fixed
-
-[web/32]
 Size=32
 Context=Applications
 Type=fixed
@@ -221,11 +201,6 @@ Size=48
 Context=Applications
 Type=fixed
 
-[web/48]
-Size=48
-Context=Applications
-Type=fixed
-
 [devices/48]
 Size=48
 Context=Devices
@@ -267,6 +242,11 @@ Size=64
 Context=Actions
 Type=fixed
 
+[apps/64]
+Size=64
+Context=Applications
+Type=fixed
+
 [categories/64]
 Size=64
 Context=Categories
@@ -280,6 +260,11 @@ Type=fixed
 [emblems/64]
 Size=64
 Context=Emblems
+Type=fixed
+
+[places/64]
+Size=64
+Context=Places
 Type=fixed
 
 [status/64]
@@ -298,13 +283,6 @@ Context=Actions
 Type=Scalable
 
 [apps/96]
-Size=96
-Context=Applications
-Type=Scalable
-MinSize=32
-MaxSize=512
-
-[web/96]
 Size=96
 Context=Applications
 Type=Scalable
@@ -391,6 +369,13 @@ MaxSize=512
 [emblems/scalable]
 Size=96
 Context=Emblems
+Type=Scalable
+MinSize=8
+MaxSize=512
+
+[places/scalable]
+Size=96
+Context=Places
 Type=Scalable
 MinSize=8
 MaxSize=512

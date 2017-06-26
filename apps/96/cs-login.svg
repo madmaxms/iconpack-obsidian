@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user_auth.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="981"
+     id="namedview171"
+     showgrid="false"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="62.439505"
+     inkscape:cy="-29.84301"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8" />
   <defs
      id="defs2410">
     <linearGradient
@@ -561,11 +585,11 @@
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-895-534-212-357-729">
       <stop
          offset="0"
-         style="stop-color:#5eecf2;stop-opacity:1;"
+         style="stop-color:#20ee8f;stop-opacity:1"
          id="stop8022" />
       <stop
          offset="1"
-         style="stop-color:#0074b6;stop-opacity:1;"
+         style="stop-color:#00927c;stop-opacity:1"
          id="stop8028" />
     </linearGradient>
     <radialGradient
@@ -677,7 +701,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1005,7 +1029,7 @@
          height="12"
          width="34" />
       <path
-         style="display:inline;opacity:0.6;fill:#005eff;fill-opacity:1;stroke:none;enable-background:new"
+         style="display:inline;opacity:0.6;fill:#00bd45;fill-opacity:1;stroke:none;enable-background:new"
          id="path3915"
          d="m 33,46.03125 c -1.620765,0 -2.96875,1.347985 -2.96875,2.96875 l 0,8 c 0,1.620765 1.347985,2.96875 2.96875,2.96875 l 30,0 c 1.620765,0 2.96875,-1.347985 2.96875,-2.96875 l 0,-8 c 0,-1.620765 -1.347985,-2.96875 -2.96875,-2.96875 l -30,0 z m 0,2.03125 30,0 c 0.500577,0 0.9375,0.436923 0.9375,0.9375 l 0,8 c 0,0.500577 -0.436923,0.9375 -0.9375,0.9375 l -30,0 c -0.500577,0 -0.9375,-0.436923 -0.9375,-0.9375 l 0,-8 c 0,-0.500577 0.436923,-0.9375 0.9375,-0.9375 z" />
       <path
