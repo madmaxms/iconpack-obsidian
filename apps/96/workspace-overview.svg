@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.0"
    width="96"
    height="96"
-   id="svg2408">
+   id="svg2408"
+   sodipodi:docname="workspace-overview.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview156"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="59.028043"
+     inkscape:cy="31.216318"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -497,7 +521,7 @@
        id="linearGradient3308"
        xlink:href="#linearGradient3852"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8576982,0,0,2.1225772,3.9270632,0.57194656)" />
+       gradientTransform="matrix(1.8576982,0,0,2.1225772,3.927063,0.57194656)" />
     <linearGradient
        x1="33.579403"
        y1="5.7086449"
@@ -561,11 +585,11 @@
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-895-534-212-357-729">
       <stop
          id="stop8022"
-         style="stop-color:#5eecf2;stop-opacity:1;"
+         style="stop-color:#c6ddff;stop-opacity:1"
          offset="0" />
       <stop
          id="stop8028"
-         style="stop-color:#0074b6;stop-opacity:1;"
+         style="stop-color:#7992ba;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -657,7 +681,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -888,7 +912,7 @@
      height="82.855606"
      rx="4.21875"
      ry="5.1252875"
-     x="6.6794581"
+     x="6.6794586"
      y="7.9507256"
      id="rect2601"
      style="opacity:0.4;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3308);stroke-width:0.77788836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />

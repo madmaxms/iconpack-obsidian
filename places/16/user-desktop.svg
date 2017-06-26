@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3342"
    height="16"
    width="16"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="user-desktop.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview47"
+     showgrid="false"
+     inkscape:zoom="5.2149124"
+     inkscape:cx="-50.286776"
+     inkscape:cy="16.566156"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3342" />
   <metadata
      id="metadata37">
     <rdf:RDF>
@@ -18,7 +42,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,7 +173,7 @@
        gradientTransform="matrix(0.2885901,0,0,0.281741,1.0734846,1.5216393)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient2422"
-       xlink:href="#linearGradient4171" />
+       xlink:href="#linearGradient4562" />
     <radialGradient
        r="23"
        fy="-2.0644982"
@@ -159,7 +183,7 @@
        gradientTransform="matrix(0,-0.3743803,0.4655272,0,11.988014,19.393247)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient2425"
-       xlink:href="#linearGradient4209" />
+       xlink:href="#linearGradient4562" />
     <linearGradient
        y2="-11.86743"
        x2="10.014208"
@@ -190,6 +214,48 @@
          style="stop-color:#0074b6;stop-opacity:1"
          offset="1" />
     </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(-3.438708e-8,-2.0049302,2.6407404,0,83.978273,63.968129)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-895-534-212-357-729"
+       id="radialGradient3322-5-3"
+       fy="-2.0644982"
+       fx="26.616697"
+       r="23"
+       cy="-2.0644982"
+       cx="26.616697" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-895-534-212-357-729">
+      <stop
+         offset="0"
+         style="stop-color:#20ee8f;stop-opacity:1"
+         id="stop8022" />
+      <stop
+         offset="1"
+         style="stop-color:#00927c;stop-opacity:1"
+         id="stop8028" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(-3.438708e-8,-2.0049302,2.6407404,0,-22.824252,50.410176)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4562"
+       id="radialGradient3322-5-36"
+       fy="-2.0644982"
+       fx="26.616697"
+       r="23"
+       cy="-2.0644982"
+       cx="26.616697" />
+    <linearGradient
+       id="linearGradient4562">
+      <stop
+         id="stop4558"
+         style="stop-color:#c6ddff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4560"
+         style="stop-color:#7992ba;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
   </defs>
   <rect
      width="14.997868"
@@ -199,7 +265,7 @@
      x="0.50106621"
      y="1.5010664"
      id="rect1316"
-     style="fill:url(#radialGradient2425);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient2427);stroke-width:1.00213289;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient2425);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient2427);stroke-width:1.00213289;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
   <rect
      width="12.997868"
      height="10.997867"
