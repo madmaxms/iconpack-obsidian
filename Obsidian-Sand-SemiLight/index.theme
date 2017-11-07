@@ -11,6 +11,13 @@ Size=16
 Context=Actions
 Type=fixed
 
+[actions/16s]
+Size=16
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=16
+
 [apps/16]
 Size=16
 Context=Applications
@@ -58,6 +65,13 @@ Size=22
 Context=Actions
 Type=fixed
 
+[actions/22s]
+Size=22
+Context=Actions
+Type=Scalable
+MinSize=22
+MaxSize=22
+
 [apps/22]
 Size=22
 Context=Applications
@@ -103,6 +117,13 @@ Type=fixed
 Size=24
 Context=Actions
 Type=fixed
+
+[actions/24s]
+Size=24
+Context=Actions
+Type=Scalable
+MinSize=24
+MaxSize=32
 
 [apps/24]
 Size=24
