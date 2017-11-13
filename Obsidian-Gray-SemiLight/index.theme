@@ -2,7 +2,7 @@
 Name=Obsidian-Gray-SemiLight
 Inherits=Obsidian-SemiLight
 Comment=Icon theme project with tilish style, by Tiheum modified by madmaxms
-Directories=actions/16,apps/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,status/16,stock/16,actions/22,apps/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,status/22,stock/22,actions/24,apps/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,status/24,stock/24,actions/32,apps/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,status/32,stock/32,actions/48,apps/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,categories/64,devices/64,emblems/64,status/64,stock/64,actions/96,apps/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,status/scalable,stock/scalable
+Directories=actions/16,actions/16s,apps/16,categories/16,devices/16,emblems/16,mimetypes/16,places/16,status/16,stock/16,actions/22,actions/22s,apps/22,categories/22,devices/22,emblems/22,mimetypes/22,places/22,status/22,stock/22,actions/24,actions/24s,apps/24,categories/24,devices/24,emblems/24,mimetypes/24,places/24,status/24,stock/24,actions/32,apps/32,categories/32,devices/32,emblems/32,mimetypes/32,places/32,status/32,stock/32,actions/48,apps/48,categories/48,devices/48,emblems/48,mimetypes/48,places/48,status/48,stock/48,actions/64,categories/64,devices/64,emblems/64,status/64,stock/64,actions/96,apps/96,categories/96,devices/96,emblems/96,mimetypes/96,places/96,status/96,stock/96,actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,status/scalable,stock/scalable
 
 KDE-Extensions=.svg
 
@@ -10,6 +10,13 @@ KDE-Extensions=.svg
 Size=16
 Context=Actions
 Type=fixed
+
+[actions/16s]
+Size=16
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=16
 
 [apps/16]
 Size=16
@@ -58,6 +65,13 @@ Size=22
 Context=Actions
 Type=fixed
 
+[actions/22s]
+Size=22
+Context=Actions
+Type=Scalable
+MinSize=22
+MaxSize=22
+
 [apps/22]
 Size=22
 Context=Applications
@@ -103,6 +117,13 @@ Type=fixed
 Size=24
 Context=Actions
 Type=fixed
+
+[actions/24s]
+Size=24
+Context=Actions
+Type=Scalable
+MinSize=24
+MaxSize=32
 
 [apps/24]
 Size=24

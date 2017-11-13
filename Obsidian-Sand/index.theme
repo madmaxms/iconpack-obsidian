@@ -11,6 +11,13 @@ Size=16
 Context=Actions
 Type=fixed
 
+[actions/16s]
+Size=16
+Context=Actions
+Type=Scalable
+MinSize=8
+MaxSize=16
+
 [apps/16]
 Size=16
 Context=Applications
@@ -40,8 +47,8 @@ Type=fixed
 Size=16
 Context=Places
 Type=Scalable
-MinSize=12
-MaxSize=16
+MinSize=16
+MaxSize=22
 
 [status/16]
 Size=16
@@ -57,6 +64,13 @@ Type=fixed
 Size=22
 Context=Actions
 Type=fixed
+
+[actions/22s]
+Size=22
+Context=Actions
+Type=Scalable
+MinSize=22
+MaxSize=22
 
 [apps/22]
 Size=22
@@ -87,9 +101,7 @@ MinSize=22
 [places/22]
 Size=22
 Context=Places
-Type=Scalable
-MinSize=22
-MaxSize=22
+Type=fixed
 
 [status/22]
 Size=22
@@ -105,6 +117,13 @@ Type=fixed
 Size=24
 Context=Actions
 Type=fixed
+
+[actions/24s]
+Size=24
+Context=Actions
+Type=Scalable
+MinSize=24
+MaxSize=32
 
 [apps/24]
 Size=24
@@ -135,9 +154,7 @@ MinSize=24
 [places/24]
 Size=24
 Context=Places
-Type=Scalable
-MinSize=24
-MaxSize=24
+Type=fixed
 
 [status/24]
 Size=24
@@ -183,9 +200,7 @@ MinSize=32
 [places/32]
 Size=32
 Context=Places
-Type=Scalable
-MinSize=32
-MaxSize=32
+Type=fixed
 
 [status/32]
 Size=32
@@ -231,9 +246,7 @@ MinSize=48
 [places/48]
 Size=48
 Context=Places
-Type=Scalable
-MinSize=48
-MaxSize=64
+Type=fixed
 
 [status/48]
 Size=48
@@ -250,6 +263,11 @@ Size=64
 Context=Actions
 Type=fixed
 
+[apps/64]
+Size=64
+Context=Applications
+Type=fixed
+
 [categories/64]
 Size=64
 Context=Categories
@@ -263,6 +281,11 @@ Type=fixed
 [emblems/64]
 Size=64
 Context=Emblems
+Type=fixed
+
+[places/64]
+Size=64
+Context=Places
 Type=fixed
 
 [status/64]
@@ -319,7 +342,7 @@ MaxSize=512
 Size=96
 Context=Places
 Type=Scalable
-MinSize=96
+MinSize=32
 MaxSize=512
 
 [status/96]
