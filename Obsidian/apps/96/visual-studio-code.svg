@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="visual-studio-code.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview174"
+     showgrid="false"
+     inkscape:zoom="1.7383042"
+     inkscape:cx="153.5349"
+     inkscape:cy="36.19849"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1158" />
   <defs
      id="defs2410">
     <linearGradient
@@ -17,37 +41,37 @@
       <stop
          id="stop1147"
          offset="0"
-         style="stop-color:#d67936;stop-opacity:1" />
+         style="stop-color:#1d8bd2;stop-opacity:1" />
       <stop
          id="stop1149"
          offset="1"
-         style="stop-color:#d46f27;stop-opacity:1" />
+         style="stop-color:#017bcd;stop-opacity:0.99638987" />
     </linearGradient>
     <linearGradient
        id="linearGradient1143">
       <stop
          id="stop1139"
          offset="0"
-         style="stop-color:#db7d37;stop-opacity:1" />
+         style="stop-color:#2d97dd;stop-opacity:1" />
       <stop
          id="stop1141"
          offset="1"
-         style="stop-color:#e5a15a;stop-opacity:1" />
+         style="stop-color:#51aee9;stop-opacity:0.97472924" />
     </linearGradient>
     <linearGradient
        id="linearGradient1133">
       <stop
          id="stop1129"
          offset="0"
-         style="stop-color:#904211;stop-opacity:1" />
+         style="stop-color:#0058a5;stop-opacity:0.96470588" />
       <stop
-         style="stop-color:#ca6f3d;stop-opacity:1"
+         style="stop-color:#026cb4;stop-opacity:1"
          offset="0.5"
          id="stop1137" />
       <stop
          id="stop1131"
          offset="1"
-         style="stop-color:#904211;stop-opacity:1" />
+         style="stop-color:#0053a4;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient3921">
@@ -783,7 +807,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
