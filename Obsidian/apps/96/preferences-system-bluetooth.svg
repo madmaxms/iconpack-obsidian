@@ -25,6 +25,18 @@
   <defs
      id="defs41">
     <linearGradient
+       id="linearGradient862"
+       stop-color="#fff">
+      <stop
+         style="stop-color:#fcfeff;stop-opacity:1"
+         offset="0"
+         id="stop858" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop860" />
+    </linearGradient>
+    <linearGradient
        stop-color="#fff"
        id="a">
       <stop
@@ -88,7 +100,7 @@
        gradientTransform="matrix(1.0571,0,0,1,11.126,9.5098)"
        x2="35.103"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#linearGradient862"
        y2="34.886"
        id="o" />
     <linearGradient
@@ -289,16 +301,17 @@
      d="m48.003 82c12.696 0 22.997-4.857 22.997-34 0-11.839-1.7-19.666-4.57-24.792 2.0473 5.0512 3.2284 12.111 3.2284 21.958 0 29.143-10.301 34-22.997 34-7.5383 0-14.232-1.7169-18.427-9.2083 4.012 9.898 11.363 12.042 19.769 12.042z"
      opacity=".2" />
   <path
+     style="fill:#fefefe;fill-opacity:1"
      id="path75"
      fill-rule="evenodd"
      d="m46.139 21v21.6l-9.121-9.121-3.2672 3.3126 11.163 11.163-11.254 11.254 3.3126 3.2672 9.1664-9.1664v21.691l16.2-16.201-10.981-10.982 10.936-10.89zm4.2202 10.346 5.5815 5.6723-5.5815 5.5815zm0 21.555 5.5815 5.7176-5.5815 5.5815z"
      fill="url(#n)" />
   <path
+     opacity=".9"
+     fill="url(#o)"
      style="opacity:0.5"
      id="path77"
-     fill="url(#o)"
-     d="m66.92 34.042a18.687 17.678 0 1 1 -37.374 0 18.687 17.678 0 1 1 37.374 0z"
-     opacity=".9" />
+     d="m66.92 34.042a18.687 17.678 0 1 1 -37.374 0 18.687 17.678 0 1 1 37.374 0z" />
   <path
      id="path79"
      fill="#fff"
