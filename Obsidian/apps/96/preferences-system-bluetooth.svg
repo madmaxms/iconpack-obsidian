@@ -25,6 +25,19 @@
   <defs
      id="defs41">
     <linearGradient
+       id="linearGradient868"
+       stop-color="#fff">
+      <stop
+         style="stop-color:#fefefe;stop-opacity:1"
+         offset="0"
+         id="stop864" />
+      <stop
+         style="stop-color:#fefefe;stop-opacity:0"
+         stop-opacity="0"
+         offset="1"
+         id="stop866" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient862"
        stop-color="#fff">
       <stop
@@ -156,7 +169,7 @@
        y1="6"
        x2="36.357"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#linearGradient868"
        y2="63.893"
        id="k" />
     <linearGradient
@@ -313,6 +326,7 @@
      id="path77"
      d="m66.92 34.042a18.687 17.678 0 1 1 -37.374 0 18.687 17.678 0 1 1 37.374 0z" />
   <path
+     style="fill:#fefefe;fill-opacity:1"
      id="path79"
      fill="#fff"
      d="m27.5 47c-0.003 0.33658 0 0.65605 0 1 0 14.276 2.6008 22.164 6.1562 26.312 3.556 4.149 8.315 5.188 14.344 5.188 6.028 0 10.788-1.039 14.344-5.188 3.555-4.148 6.156-12.036 6.156-26.312 0-0.34395 0.003-0.66342 0-1-0.121 13.633-2.686 21.264-6.156 25.312-3.556 4.149-8.316 5.188-14.344 5.188-6.029 0-10.788-1.039-14.344-5.188-3.47-4.048-6.035-11.679-6.156-25.312z"
