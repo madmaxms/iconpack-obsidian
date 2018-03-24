@@ -30,15 +30,15 @@
        id="linearGradient3719">
       <stop
          id="stop3721"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3727"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0.78125" />
       <stop
          id="stop3723"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -84,11 +84,11 @@
        id="linearGradient3737">
       <stop
          id="stop3739"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <filter
@@ -145,7 +145,7 @@
          x="6"
          y="6"
          id="rect3615"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </clipPath>
     <linearGradient
        x1="48"
@@ -342,7 +342,7 @@
        y="15"
        clip-path="url(#clipPath3613)"
        id="rect3171"
-       style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
+       style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
   <g
      id="layer4">
@@ -370,7 +370,7 @@
        d="m 46,12.000006 0,1.158765 0,3.852109 0,9.050892 c -0.562075,0.02611 -1.106567,0.05573 -1.65625,0.125272 -0.134634,0.01696 -0.272425,0.04314 -0.40625,0.06264 -0.04283,0.0063 -0.08225,0.02477 -0.125,0.03132 -0.09534,0.01449 -0.186338,0.04686 -0.28125,0.06264 -0.25099,0.042 -0.502108,0.07444 -0.75,0.125272 -0.281225,0.05731 -0.566747,0.11946 -0.84375,0.187907 -0.614167,0.152479 -1.220998,0.327087 -1.8125,0.532406 -0.06249,0.02169 -0.125283,0.04037 -0.1875,0.06264 -0.05281,0.0189 -0.103634,0.04333 -0.15625,0.06264 -0.442291,0.162297 -0.884712,0.341716 -1.3125,0.532405 -0.298975,0.133414 -0.583609,0.291638 -0.875,0.438451 -0.285195,0.143723 -0.566174,0.28227 -0.84375,0.438452 -0.289202,0.162627 -0.563238,0.356655 -0.84375,0.532405 -0.358897,0.224813 -0.718566,0.44349 -1.0625,0.688996 -0.08043,0.05734 -0.170417,0.09815 -0.25,0.156589 -0.399397,0.293739 -0.779046,0.587559 -1.15625,0.908221 -0.06267,0.05322 -0.12546,0.102652 -0.1875,0.15659 -0.374907,0.326175 -0.742854,0.681834 -1.09375,1.033493 -0.388548,0.389417 -0.767766,0.802529 -1.125,1.221401 -0.124755,0.14616 -0.254213,0.288865 -0.375,0.438451 -0.15477,0.191771 -0.28941,0.397787 -0.4375,0.595041 -0.285736,0.380749 -0.552568,0.758577 -0.8125,1.158765 -0.345977,0.532664 -0.67105,1.095312 -0.96875,1.659852 -0.0873,0.165795 -0.167023,0.332705 -0.25,0.501088 -0.200302,0.406011 -0.388088,0.801095 -0.5625,1.2214 -0.04305,0.103762 -0.08357,0.208584 -0.125,0.31318 -0.429143,1.08241 -0.784826,2.220338 -1.03125,3.38234 -0.01095,0.05163 -0.02068,0.104823 -0.03125,0.15659 -0.0067,0.03279 -0.02474,0.06111 -0.03125,0.09395 -0.062,0.31105 -0.108096,0.623704 -0.15625,0.939539 -0.03876,0.254087 -0.09538,0.494629 -0.125,0.751631 -0.011,0.09551 -0.02153,0.185962 -0.03125,0.281862 -0.0021,0.02114 0.0021,0.04147 0,0.06264 -0.03278,0.333296 -0.04542,0.664496 -0.0625,1.002175 C 26.013102,46.338954 26,46.712626 26,47.076126 c 0,11.623204 9.40202,21.045672 21,21.045672 0.47061,0 0.943203,-0.03233 1.40625,-0.06264 0.125395,-0.0083 0.250216,0.01045 0.375,0 0.360313,-0.02989 0.707543,-0.07746 1.0625,-0.125272 0.117004,-0.0159 0.227366,-0.04481 0.34375,-0.06264 0.347857,-0.05278 0.689225,-0.118251 1.03125,-0.187907 0.319839,-0.06559 0.654388,-0.107925 0.96875,-0.187908 0.0224,-0.0057 0.04013,-0.02557 0.0625,-0.03132 0.156665,-0.0404 0.313522,-0.08137 0.46875,-0.125272 0.282959,-0.07988 0.565838,-0.15911 0.84375,-0.250544 0.08481,-0.02791 0.165669,-0.065 0.25,-0.09395 C 52.744478,68.780719 51.025957,70.129048 49,70.752501 L 49,84 C 59.693021,82.755573 68,73.659952 68,62.60983 68,62.4397 67.97267,62.277925 67.96875,62.108743 l 0.03125,0 0,-15.032623 0,-19.041322 C 68,19.179029 60.836556,12.000006 52,12.000006 l -6,0 z"
        inkscape:connector-curvature="0"
        id="path3688"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        d="M 46.875,28 C 36.439829,28.068061 28,36.548803 28,47 c 0,10.49341 8.50659,19 19,19 3.65969,0 7.06896,-1.05094 9.96875,-2.84375 -0.24093,3.903513 -2.61182,7.214217 -5.96875,8.8125 l 0,9.46875 C 59.4427,79.442347 65.74138,71.996123 65.96875,63 l 0.0312,0 0,-0.5 0,-15.5 L 66,28 46.875,28 z"
        inkscape:connector-curvature="0"
@@ -393,7 +393,7 @@
          d="m 64.625714,41.5 c 1.597146,0.06742 2.875,1.386269 2.875,3 0,1.656854 -1.343146,3 -3,3 -1.613731,0 -2.932582,-1.277854 -3,-2.875 -0.0016,0.04196 0,0.08265 0,0.125 0,1.794925 1.455075,3.25 3.25,3.25 1.794925,0 3.25,-1.455075 3.25,-3.25 0,-1.794925 -1.455075,-3.25 -3.25,-3.25 -0.04235,0 -0.08304,-0.0016 -0.125,0 z"
          inkscape:connector-curvature="0"
          id="path3729"
-         style="opacity:0.1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.1;color:#000000;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
   </g>
 </svg>

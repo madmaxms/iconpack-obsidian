@@ -58,11 +58,11 @@
        id="linearGradient3737">
       <stop
          id="stop3739"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fefefe;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3741"
-         style="stop-color:#ffffff;stop-opacity:0"
+         style="stop-color:#fefefe;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -130,7 +130,7 @@
          x="6"
          y="6"
          id="rect3615"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+         style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     </clipPath>
     <linearGradient
        x1="48"
@@ -322,7 +322,7 @@
        y="15"
        clip-path="url(#clipPath3613)"
        id="rect3171"
-       style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
+       style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3794)" />
   </g>
   <g
      id="layer4">
@@ -353,6 +353,6 @@
        d="m 50.21875,12.96875 c -3.175193,5.319596 -4.687046,8.546264 -4.5625,11.75 0.188504,-2.815411 1.65008,-5.830738 4.34375,-10.375 0.07225,-0.454123 0.125395,-0.882448 0.21875,-1.375 z M 58.375,16 c -2.14085,3.166428 -3.065727,5.312888 -2.875,7.4375 0.121763,-1.58137 0.876359,-3.272406 2.25,-5.4375 0.149209,-0.599483 0.334696,-1.236311 0.625,-2 z m -8.8125,3.4375 c -0.07356,3.948058 1.015893,6.346609 2.6875,9.75 0.566377,1.153143 0.863981,2.388644 0.9375,3.65625 0.04524,-1.61826 -0.223827,-3.203212 -0.9375,-4.65625 -1.526719,-3.108399 -2.576754,-5.372364 -2.6875,-8.75 z m 7.90625,1.03125 c -0.206764,2.280419 0.767808,3.388419 1.71875,5.40625 0.398445,0.845474 0.636903,1.658023 0.71875,2.46875 0.103835,-1.163172 -0.156473,-2.275637 -0.71875,-3.46875 -0.797515,-1.692272 -1.598918,-2.76554 -1.71875,-4.40625 z m -15.5,0.78125 c -2.063372,3.543531 -2.993741,5.6613 -2.8125,7.78125 0.135223,-1.744141 1.012593,-3.640399 2.625,-6.4375 0.05367,-0.43272 0.101541,-0.861744 0.1875,-1.34375 z m -0.3125,3.96875 c -0.113707,2.978924 0.625502,4.747463 1.71875,6.71875 0.512796,0.924645 0.850632,1.893648 0.9375,2.9375 0.108943,-1.439307 -0.264599,-2.724163 -0.9375,-3.9375 -0.963826,-1.737921 -1.641565,-3.328738 -1.71875,-5.71875 z m 16.25,5.59375 c -0.0737,0.726242 -0.300768,1.594307 -0.75,2.75 0.195616,-0.220599 0.35813,-0.413498 0.53125,-0.625 0.229553,-0.877619 0.288504,-1.540064 0.21875,-2.125 z m -16,7.4375 c -0.02523,0.704967 -0.09038,1.482807 -0.25,2.375 0.0696,-0.0878 0.120938,-0.163268 0.1875,-0.25 0.08902,-0.798256 0.09323,-1.496224 0.0625,-2.125 z m 8,1.03125 c -0.03661,1.176045 -0.180452,2.483456 -0.46875,4 0.07995,-0.12478 0.171213,-0.248209 0.25,-0.375 0.196022,-1.36607 0.243373,-2.560597 0.21875,-3.625 z M 28,46 l 0,1 40,0 6,0 c 1.662,0 3,1.338 3,3 l 0,-1 c 0,-1.662 -1.338,-3 -3,-3 l -6,0 -40,0 z m 46,7.375 c 0,1.03875 -0.83625,1.875 -1.875,1.875 l -4.125,0 c -0.0044,0.335618 -0.01829,0.66586 -0.03125,1 l 4.15625,0 C 73.16375,56.25 74,55.41375 74,54.375 l 0,-1 z M 31.96875,54 l 0,1 C 32.343769,59.241918 31.89222,66.858893 36.5,69.03125 l 1.5,0 c -0.500391,-0.278311 -0.929044,-0.621578 -1.3125,-1 l -0.1875,0 C 31.892216,65.858893 32.343769,58.241918 31.96875,54 z M 16,72 c 0,0.337467 0.0773,0.678013 0.21875,1 l 63.5625,0 C 79.922695,72.678013 80,72.337467 80,72 l -64,0 z"
        inkscape:connector-curvature="0"
        id="path3738"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
