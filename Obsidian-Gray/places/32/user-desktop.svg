@@ -15,7 +15,7 @@
    height="32"
    id="svg2639"
    sodipodi:version="0.32"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="user-desktop.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -43,7 +43,7 @@
      id="base"
      showgrid="false"
      inkscape:zoom="11.004349"
-     inkscape:cx="12.622047"
+     inkscape:cx="-6.915683"
      inkscape:cy="21.140303"
      inkscape:window-x="59"
      inkscape:window-y="34"
@@ -51,6 +51,17 @@
      inkscape:window-maximized="0" />
   <defs
      id="defs2641">
+    <linearGradient
+       id="linearGradient880">
+      <stop
+         offset="0"
+         style="stop-color:#424949;stop-opacity:1"
+         id="stop876" />
+      <stop
+         offset="1"
+         style="stop-color:#292f2f;stop-opacity:1"
+         id="stop878" />
+    </linearGradient>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 16 : 1"
@@ -256,7 +267,7 @@
        gradientTransform="matrix(0.5613326,0,0,0.439796,-2.0897298,1.6552502)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3958-3"
+       xlink:href="#linearGradient880"
        id="linearGradient2433"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.5613326,0,0,0.439796,-2.0897298,1.6552502)"
