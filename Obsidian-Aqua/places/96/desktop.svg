@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="96"
    width="96"
    version="1.1"
-   id="svg3359">
+   id="svg3359"
+   sodipodi:docname="desktop.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview84"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="40.791158"
+     inkscape:cy="69.624829"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3359" />
   <metadata
      id="metadata3484">
     <rdf:RDF>
@@ -18,12 +42,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3361">
+    <linearGradient
+       id="linearGradient895">
+      <stop
+         offset="0"
+         style="stop-color:#424949;stop-opacity:1"
+         id="stop891" />
+      <stop
+         offset="1"
+         style="stop-color:#292f2f;stop-opacity:1"
+         id="stop893" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4209">
       <stop
@@ -407,7 +442,7 @@
        x2="33.579403"
        y2="16.323294"
        id="linearGradient3311-7"
-       xlink:href="#linearGradient3958"
+       xlink:href="#linearGradient895"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5405636,0,0,1.2369262,-1.6797562,7.7193021)" />
     <linearGradient

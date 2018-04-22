@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2639"
    height="22"
    width="22"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="desktop.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview56"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-1.4915254"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2639" />
   <metadata
      id="metadata42">
     <rdf:RDF>
@@ -18,12 +42,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs2641">
+    <linearGradient
+       id="linearGradient870">
+      <stop
+         offset="0"
+         style="stop-color:#424949;stop-opacity:1"
+         id="stop866" />
+      <stop
+         offset="1"
+         style="stop-color:#292f2f;stop-opacity:1"
+         id="stop868" />
+    </linearGradient>
     <linearGradient
        id="linearGradient3332-412-419-652-471-761-410-156-661-505">
       <stop
@@ -173,7 +208,7 @@
        gradientTransform="matrix(0.3802462,0,0,0.329847,-1.2543548,0.3664358)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient2419"
-       xlink:href="#linearGradient3958-6" />
+       xlink:href="#linearGradient870" />
     <linearGradient
        y2="14"
        x2="16.91585"
