@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3359"
    version="1.1"
    width="96"
-   height="96">
+   height="96"
+   sodipodi:docname="desktop.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview81"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="34.216238"
+     inkscape:cy="65.997909"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3359" />
   <metadata
      id="metadata3484">
     <rdf:RDF>
@@ -18,12 +42,23 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs3361">
+    <linearGradient
+       id="linearGradient892">
+      <stop
+         id="stop888"
+         style="stop-color:#424949;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop890"
+         style="stop-color:#292f2f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
     <linearGradient
        stop-color="#fff"
        id="a">
@@ -393,7 +428,7 @@
     <linearGradient
        gradientTransform="matrix(1.5405636,0,0,1.2369262,-1.6797562,7.7193021)"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3958"
+       xlink:href="#linearGradient892"
        id="linearGradient3311-7"
        y2="16.323294"
        x2="33.579403"
