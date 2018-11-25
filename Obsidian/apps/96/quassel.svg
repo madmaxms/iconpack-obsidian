@@ -6,10 +6,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="quassel.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview115"
+     showgrid="false"
+     inkscape:zoom="2.4583333"
+     inkscape:cx="0.81355932"
+     inkscape:cy="48"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -516,7 +540,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -655,21 +679,20 @@
        id="path3953"
        style="opacity:0.4;fill:url(#linearGradient3967);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65949661" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:41.79591751px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003073;fill-opacity:1;stroke:#005fff;stroke-width:1.04489791;stroke-opacity:1;"
-     x="22.946194"
-     y="57.355934"
-     id="text4754"><tspan
-       id="tspan4752"
-       x="22.946194"
-       y="57.355934"
-       style="fill:#003073;fill-opacity:1;stroke:#005fff;stroke-width:1.04489791;stroke-opacity:1;">#</tspan></text>
   <g
-     transform="translate(122)"
+     aria-label="#"
+     style="font-style:normal;font-weight:normal;font-size:41.79591751px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003073;fill-opacity:1;stroke:#005fff;stroke-width:1.04489791;stroke-opacity:1"
+     id="text4754">
+    <path
+       d="m 44.31354,38.968179 h -5.938775 l -1.714286,6.816327 h 5.979592 z m -3.061224,-11.612244 -2.122449,8.469387 h 5.959183 l 2.142857,-8.469387 h 3.265307 l -2.102041,8.469387 h 6.367347 v 3.142857 h -7.163266 l -1.673469,6.816327 h 6.489796 v 3.122449 h -7.285714 l -2.122449,8.448979 h -3.265306 l 2.10204,-8.448979 h -5.979591 l -2.102041,8.448979 h -3.285714 l 2.122449,-8.448979 h -6.428572 v -3.122449 h 7.183674 l 1.714285,-6.816327 h -6.571428 v -3.142857 h 7.367347 l 2.081632,-8.469387 z"
+       style="fill:#003073;fill-opacity:1;stroke:#005fff;stroke-width:1.04489791;stroke-opacity:1"
+       id="path922" />
+  </g>
+  <g
+     transform="translate(84)"
      id="layer5">
     <rect
-       transform="translate(-122)"
+       transform="translate(-84)"
        style="opacity:0.1;fill:url(#linearGradient3613);fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3794)"
        id="rect3171"
        clip-path="url(#clipPath3613)"

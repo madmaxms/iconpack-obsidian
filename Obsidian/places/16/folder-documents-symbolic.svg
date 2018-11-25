@@ -7,15 +7,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
    id="svg7384"
-   inkscape:version="0.92.1 r"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="folder-documents-symbolic.svg">
+  <defs
+     id="defs9" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,78 +26,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1217"
-     inkscape:window-height="740"
-     id="namedview21"
+     inkscape:window-width="1213"
+     inkscape:window-height="841"
+     id="namedview7"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="9.7642477"
-     inkscape:cy="6.6586713"
-     inkscape:window-x="209"
-     inkscape:window-y="61"
+     inkscape:cx="-0.03187321"
+     inkscape:cy="8.2659671"
+     inkscape:window-x="126"
+     inkscape:window-y="124"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg7384" />
-  <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
-  <defs
-     id="defs11">
-    <linearGradient
-       id="linearGradient4125">
-      <stop
-         id="stop4127"
-         style="stop-color:#bebebe;stop-opacity:0.72941178"
-         offset="0" />
-      <stop
-         id="stop4129"
-         style="stop-color:#c8c8c8;stop-opacity:1"
-         offset="0.08611956" />
-      <stop
-         id="stop4131"
-         style="stop-color:#cdcdcd;stop-opacity:0.87843138"
-         offset="0.92370826" />
-      <stop
-         id="stop4133"
-         style="stop-color:#d3d3d3;stop-opacity:0.74901962"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="8"
-       y1="11.333334"
-       x2="8"
-       y2="4.666667"
-       id="linearGradient4032"
-       xlink:href="#linearGradient4125"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.64285714,0,0,1.5,9.3571429,-3.0000004)" />
-    <linearGradient
-       id="linearGradient4114-1">
-      <stop
-         id="stop4116-38"
-         style="stop-color:#bebebe;stop-opacity:0.40000001"
-         offset="0" />
-      <stop
-         id="stop4122-7"
-         style="stop-color:#c8c8c8;stop-opacity:0.4173913"
-         offset="0.08611956" />
-      <stop
-         id="stop4124-4"
-         style="stop-color:#cdcdcd;stop-opacity:0.4173913"
-         offset="0.92370826" />
-      <stop
-         id="stop4118-9"
-         style="stop-color:#d3d3d3;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="8"
-       y1="11.333334"
-       x2="8"
-       y2="4.666667"
-       id="linearGradient4052"
-       xlink:href="#linearGradient4114-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.64285714,0,0,1.5,7.3571429,-4e-7)" />
-  </defs>
+     inkscape:current-layer="layer13" />
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -109,16 +49,17 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-     d="m 4,5e-7 c -0.554,0 -1,0.446 -1,1 V 13 c 0,0.554 0.446,1 1,1 h 10 c 0.554,0 1,-0.446 1,-1 V 5.0000005 c 0,-0.554 -4.446,-5 -5,-5 z m 0.5,1 H 10 v 4 h 4 V 12.5 c 0,0.276999 -0.223,0.5 -0.5,0.5 h -9 C 4.223,13 4,12.776999 4,12.5 V 1.5000005 c 0,-0.277 0.223,-0.5 0.5,-0.5 z"
-     id="rect21401-5"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssssssscccssssss" />
-  <path
-     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-     d="M 1.9999999,2.0000003 C 1.446,2.0000003 1,2.4460003 1,3.0000003 V 15 c 0,0.554 0.446,1 0.9999999,1 H 12.000001 c 0.554,0 1,-0.446 1,-1 l -4.16e-4,-1.802281 h -1 L 12.000001,14.5 c 8.8e-5,0.276999 -0.223,0.5 -0.5,0.5 H 2.4999999 c -0.277,0 -0.5,-0.223001 -0.5,-0.5 V 3.5000003 c 0,-0.277 0.223,-0.5 0.5,-0.5 h 1.1996389 l -1.094e-4,-1 z"
-     id="rect21401-5-3"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssccssssssccs" />
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer13"
+     transform="translate(-481 -195)">
+    <path
+       style="color:#000000;text-indent:0;text-transform:none;fill:#bebebe"
+       d="m 2.8105469,1 c -0.478082,0.091222 -0.8210764,0.5133685 -0.8125,1 v 13 c 5.52e-5,0.552262 0.4477381,0.999945 1,1 H 12.998047 c 0.552262,-5.5e-5 0.999945,-0.447738 1,-1 V 5.5625 c 0.0062,-0.2675647 -0.0951,-0.5264505 -0.28125,-0.71875 l -3.5625,-3.5625 C 9.9619975,1.0951043 9.7031117,0.99380115 9.4355469,1 h -6.4375 C 2.9668139,0.998534 2.9355299,0.998534 2.9042969,1 2.8730639,0.998534 2.8417799,0.998534 2.8105469,1 Z m 1.1875,2 h 5 v 3 h 3.0000001 v 8 H 3.9980469 Z"
+       transform="translate(481,195)"
+       id="path5003"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+  </g>
 </svg>

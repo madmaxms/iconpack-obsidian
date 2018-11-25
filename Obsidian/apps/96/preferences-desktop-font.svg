@@ -13,7 +13,7 @@
    version="1.1"
    id="svg90"
    sodipodi:docname="preferences-desktop-font.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata94">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="789"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview92"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-6.5084746"
-     inkscape:cy="48"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-19.361817"
+     inkscape:cy="58.242988"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg90" />
   <defs
      id="defs56">
@@ -195,11 +196,13 @@
        r="42">
       <stop
          offset="0"
-         id="stop39" />
+         id="stop39"
+         style="stop-color:#fefefe;stop-opacity:1" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop41" />
+         id="stop41"
+         style="stop-color:#fefefe;stop-opacity:0" />
     </radialGradient>
     <linearGradient
        id="k"
@@ -211,7 +214,8 @@
        x1="36.357">
       <stop
          offset="0"
-         id="stop44" />
+         id="stop44"
+         style="stop-color:#fefefe;stop-opacity:1" />
       <stop
          stop-opacity="0"
          offset="1"
@@ -345,12 +349,13 @@
        fill="url(#o)"
        id="rect84" />
   </g>
-  <text
-     font-size="65.84px"
-     font-style="italic"
-     y="72"
-     x="28.44"
-     font-family="DejaVu Serif"
-     fill="url(#c)"
-     id="text88">A</text>
+  <g
+     aria-label="A"
+     style="font-style:italic;font-size:65.83999634px;font-family:'DejaVu Serif';fill:url(#c)"
+     id="text88">
+    <path
+       d="M 40.36707,54.607696 H 57.984413 L 53.612226,31.782307 Z M 23.424845,72 24.067813,68.592266 h 4.211445 L 54.062304,24.002385 h 5.400937 l 8.487187,44.589881 H 72.6441 L 72.001131,72 H 54.54453 l 0.642969,-3.407734 h 5.33664 L 58.563085,58.047579 H 38.373867 l -6.076054,10.544687 h 5.272343 L 36.927188,72 Z"
+       style="font-style:italic;font-size:65.83999634px;font-family:'DejaVu Serif';fill:url(#c)"
+       id="path902" />
+  </g>
 </svg>

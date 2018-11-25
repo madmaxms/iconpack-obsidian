@@ -14,7 +14,7 @@
    width="96"
    height="96"
    id="svg2408"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="mediathekview.svg">
   <sodipodi:namedview
      pagecolor="#fefefe"
@@ -25,12 +25,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="981"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview108"
      showgrid="false"
      inkscape:zoom="0.61458333"
-     inkscape:cx="-26.899586"
+     inkscape:cx="-371.84874"
      inkscape:cy="-105.22703"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -422,7 +422,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -519,18 +519,19 @@
        inkscape:connector-curvature="0"
        id="path3818"
        style="fill:#0e3857;fill-opacity:1;stroke:none" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="17.2582"
-       y="70.112701"
-       id="text4236"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4238"
-         x="17.2582"
-         y="70.112701"
-         style="-inkscape-font-specification:'Liberation Sans Bold';font-family:'Liberation Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;fill-opacity:1;fill:#fefefe;">MV</tspan></text>
+    <g
+       aria-label="MV"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4236">
+      <path
+         d="M 42.785543,70.112701 V 53.433014 q 0,-0.566406 0,-1.132813 0.01953,-0.566406 0.195313,-4.863281 -1.386719,5.253906 -2.050781,7.324219 L 35.969137,70.112701 H 31.867575 L 26.906637,54.761139 24.816793,47.43692 q 0.234375,4.53125 0.234375,5.996094 V 70.112701 H 19.933981 V 42.59317 h 7.714844 l 4.921875,15.390625 0.429687,1.484375 0.9375,3.691406 1.230469,-4.414062 5.058594,-16.152344 h 7.675781 v 27.519531 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#fefefe;fill-opacity:1"
+         id="path4615" />
+      <path
+         d="M 66.906637,70.112701 H 61.066793 L 50.891012,42.59317 h 6.015625 L 62.5707,60.268951 q 0.527343,1.71875 1.445312,5.195313 l 0.410156,-1.679688 0.996094,-3.515625 5.644531,-17.675781 h 5.957032 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans Bold';fill:#fefefe;fill-opacity:1"
+         id="path4617" />
+    </g>
   </g>
   <g
      id="layer3">

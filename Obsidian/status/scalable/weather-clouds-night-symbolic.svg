@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    version="1.0"
    sodipodi:docname="weather-clouds-night-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -710,8 +710,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.731675"
-     inkscape:cx="-39.66792"
-     inkscape:cy="13.532004"
+     inkscape:cx="-14.450263"
+     inkscape:cy="5.8124862"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -719,19 +719,21 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
        orientation="1,0"
        position="0,112"
-       id="guide2383" />
+       id="guide2383"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="78.156291,0"
-       id="guide2389" />
+       id="guide2389"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3672"
@@ -740,11 +742,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="22.008699,4.1542523"
-       id="guide2950" />
+       id="guide2950"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="20,-8"
-       id="guide2952" />
+       id="guide2952"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -763,15 +767,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:0.45;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.25;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 8 0 C 4.6862915 8.8817842e-16 2 2.6862915 2 6 C 2 7.1438667 2.3195015 8.2153428 2.875 9.125 C 3.7806111 7.7972637 5.2816982 6.90625 7 6.90625 C 8.2134213 6.90625 9.2769603 7.4388007 10.15625 8.15625 C 10.436044 8.0621077 10.669385 7.90625 11 7.90625 C 11.9059 7.90625 12.667277 8.3430463 13.1875 9 C 13.698032 8.1174661 14 7.0928866 14 6 C 14 2.6862915 11.313708 -1.3238214e-15 8 0 z "
        id="path4792" />
     <path
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        d="M 8 0 C 4.6862915 0 2 2.6862915 2 6 C 2 7.1757291 2.3531157 8.261702 2.9375 9.1875 C 3.6647352 8.1155427 4.7810931 7.3411213 6.09375 7.09375 C 5.6800824 6.3925418 5.4375 5.5918181 5.4375 4.71875 C 5.4375 2.4608496 7.0366213 0.5863675 9.15625 0.125 C 8.7816946 0.0517916 8.3959882 0 8 0 z M 13.71875 7.78125 C 13.428684 8.118814 13.094441 8.4132845 12.71875 8.65625 C 12.862052 8.7824063 13.006844 8.9405357 13.125 9.09375 C 13.372303 8.6853833 13.574078 8.2463856 13.71875 7.78125 z "
        id="path2931" />
     <path
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7,8 C 5.1231155,8 3.5562934,9.2876389 3.125,11.03125 1.92405,11.2138 1,12.248066 1,13.5 1,14.880712 2.1192881,16 3.5,16 l 9,0 C 13.880712,16 15,14.880712 15,13.5 15,12.291877 14.139208,11.295616 13,11.0625 13.00065,11.041541 13,11.021117 13,11 13,9.8954305 12.104569,9 11,9 10.620084,9 10.271258,9.1285643 9.96875,9.3125 9.2367617,8.5026407 8.1776106,8 7,8 z"
        id="path3805"
        sodipodi:nodetypes="ccsccscsscc" />

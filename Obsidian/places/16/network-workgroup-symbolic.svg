@@ -1,22 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata90">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title>Gnome Symbolic Icon Theme</dc:title>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <title id="title9167">Gnome Symbolic Icon Theme</title>
- <g id="layer13" transform="translate(-442 -216)">
-  <g id="g4172-9" transform="translate(422 -1)">
-   <g id="g4166-3">
-    <path id="rect12675-3-8-0" d="m202.75 3c-0.95 0-1.75 0.7978-1.75 1.75v4.5c0 0.9522 0.7978 1.75 1.75 1.75h0.125l-0.78125 1.5625-0.71 1.438h1.62 6 1.625l-0.71875-1.4375-0.79-1.562h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0.01-0.9522-0.79-1.75-1.74-1.75h-6.5zm0.25 2h6v4h-6v-4z" style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe" transform="translate(-181 218)"/>
-   </g>
-   <path id="rect12675-3-8-5-26" style="color:#bebebe;text-indent:0pt;text-transform:none;fill:#bebebe" d="m27.75 218c-0.9522 0-1.75 0.7978-1.75 1.75v0.25h2 0.25 5.75v4h-3v3.25c0 0.6591-0.25164 1.2698-0.65625 1.75h5.2812l-1.5-3h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   sodipodi:docname="network-workgroup-symbolic.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="29.5"
+     inkscape:cx="0.78593194"
+     inkscape:cy="7.3558319"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     id="layer13"
+     transform="translate(-442 -216)">
+    <g
+       id="g4172-9"
+       transform="translate(422 -1)">
+      <g
+         id="g4166-3">
+        <path
+           id="rect12675-3-8-0"
+           d="m202.75 3c-0.95 0-1.75 0.7978-1.75 1.75v4.5c0 0.9522 0.7978 1.75 1.75 1.75h0.125l-0.78125 1.5625-0.71 1.438h1.62 6 1.625l-0.71875-1.4375-0.79-1.562h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0.01-0.9522-0.79-1.75-1.74-1.75h-6.5zm0.25 2h6v4h-6v-4z"
+           style="block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe"
+           transform="translate(-181 218)" />
+      </g>
+      <path
+         id="rect12675-3-8-5-26"
+         style="color:#bebebe;text-indent:0pt;text-transform:none;fill:#bebebe"
+         d="m27.75 218c-0.9522 0-1.75 0.7978-1.75 1.75v0.25h2 0.25 5.75v4h-3v3.25c0 0.6591-0.25164 1.2698-0.65625 1.75h5.2812l-1.5-3h0.125c0.9522 0 1.75-0.7978 1.75-1.75v-4.5c0-0.9522-0.7978-1.75-1.75-1.75h-6.5z" />
+    </g>
   </g>
- </g>
 </svg>

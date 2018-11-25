@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    version="1.0"
    sodipodi:docname="weather-few-clouds-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -702,9 +702,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.490211"
-     inkscape:cx="-39.270847"
-     inkscape:cy="13.53745"
+     inkscape:zoom="10.246126"
+     inkscape:cx="-4.6721701"
+     inkscape:cy="8.0268754"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -712,19 +712,21 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
        orientation="1,0"
        position="0,112"
-       id="guide2383" />
+       id="guide2383"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="78.156291,0"
-       id="guide2389" />
+       id="guide2389"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3672"
@@ -733,11 +735,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="22.008699,4.1542523"
-       id="guide2950" />
+       id="guide2950"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="11.22532,22.008699"
-       id="guide2952" />
+       id="guide2952"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -756,11 +760,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:1;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 6.625 0 L 5.75 3.125 L 2.8125 1.75 L 3.625 4.90625 L 0.375 5.1875 L 2.65625 7.5 L 0 9.375 L 3.125 10.25 L 2.78125 11.03125 C 3.466761 9.8972056 4.5815042 9.03125 6 9.03125 C 7.8758471 9.03125 9.4128484 10.395653 9.8125 12.15625 C 10.674118 12.284054 11.437571 12.83645 11.78125 13.59375 L 13.1875 14.25 L 12.375 11.09375 L 15.625 10.8125 L 13.34375 8.5 L 16 6.625 L 12.875 5.75 L 14.25 2.8125 L 11.09375 3.625 L 10.8125 0.375 L 8.5 2.65625 L 6.625 0 z "
        id="path4111" />
     <path
-       style="opacity:1;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:1;color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 6,10 c -1.301321,0 -2.3969895,0.841652 -2.8125,2 -0.05269,-0.0041 -0.1025116,0 -0.15625,0 C 1.9068771,12 1,12.906877 1,14.03125 1,15.155623 1.9068771,16.0625 3.03125,16.0625 L 9.5,16 C 10.328427,16 11,15.328427 11,14.5 11,13.671573 10.328427,13 9.5,13 9.327411,13 9.154319,13.040108 9,13.09375 9.001016,13.061654 9,13.032343 9,13 9,11.343146 7.6568543,10 6,10 z"
        id="path3081"
        sodipodi:nodetypes="ccssccssssc" />

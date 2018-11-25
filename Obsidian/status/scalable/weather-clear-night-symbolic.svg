@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    version="1.0"
    sodipodi:docname="weather-clear-night-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -702,9 +702,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.490211"
-     inkscape:cx="-27.246894"
-     inkscape:cy="13.468438"
+     inkscape:zoom="20.492253"
+     inkscape:cx="-2.5892745"
+     inkscape:cy="6.8372093"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -712,19 +712,21 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1028"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:snap-global="true">
     <sodipodi:guide
        orientation="1,0"
        position="0,112"
-       id="guide2383" />
+       id="guide2383"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="78.156291,0"
-       id="guide2389" />
+       id="guide2389"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3672"
@@ -733,11 +735,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="22.008699,4.1542523"
-       id="guide2950" />
+       id="guide2950"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="11.22532,22.008699"
-       id="guide2952" />
+       id="guide2952"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -757,7 +761,7 @@
      id="layer1">
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.45"
+       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.25"
        id="path4792"
        sodipodi:cx="8"
        sodipodi:cy="8"
@@ -765,7 +769,7 @@
        sodipodi:ry="6"
        d="M 14,8 A 6,6 0 1 1 2,8 6,6 0 1 1 14,8 z" />
     <path
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 8,2 C 4.6862915,2 2,4.6862915 2,8 c 0,3.313708 2.6862915,6 6,6 2.692389,0 4.972474,-1.762946 5.732143,-4.205357 -0.864578,1.006152 -2.158647,1.633928 -3.589286,1.633928 -2.6036279,0 -4.7142856,-2.110657 -4.7142856,-4.7142853 0,-2.2579004 1.6035856,-4.1189896 3.7232143,-4.5803571 C 8.7772303,2.0607202 8.3959882,2 8,2 z"
        id="path2931" />
   </g>
