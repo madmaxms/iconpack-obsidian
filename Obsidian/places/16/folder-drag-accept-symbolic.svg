@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg7384">
+   id="svg7384"
+   sodipodi:docname="folder-open-symbolic.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="0.13559322"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
   <defs
      id="defs10" />
   <metadata
@@ -26,11 +50,15 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <path
-     d="m 0,8 v 6.142526 C 0,14.539206 0.456666,15 0.875007,15 h 14.250547 c 0.384321,0 0.874351,-0.450851 0.874351,-0.857474 L 16.000447,8 Z"
+     d="m 1.0004965,9 v 5.142526 C 1.0004965,14.539206 1.4571625,15 1.8755035,15 H 14.125553 c 0.384321,0 0.874352,-0.450851 0.874352,-0.857474 L 15.000447,9 Z"
      style="fill:#bebebe;fill-opacity:1"
-     id="rect3845-3-6-7" />
+     id="rect3845-3-6-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssccc" />
   <path
-     d="M 0.875007,1.000435 C 0.341656,1.000435 0,1.363524 0,1.857565 V 7 h 15.999905 l 5.42e-4,-3.1433045 c 0.0021,-0.5388637 -0.385668,-0.8573161 -0.874893,-0.856744 L 6.76,3 4.824497,1.000435 Z"
-     style="fill:#bebebe;fill-opacity:0.62745098"
-     id="rect3845-3-6-5" />
+     d="M 1.875007,2 C 1.341656,2 1,2.3631153 1,2.8571921 V 8 h 13.999905 l 5.42e-4,-3.1435324 C 15.002547,4.3175648 14.614779,3.9990893 14.125554,3.9996615 L 7.76,3.99971 5.824497,2 Z"
+     style="fill:#bebebe;fill-opacity:1;stroke-width:1.00003624"
+     id="rect3845-3-6-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccccccs" />
 </svg>
