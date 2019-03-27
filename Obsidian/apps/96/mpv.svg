@@ -13,7 +13,7 @@
    width="96"
    height="96"
    sodipodi:docname="mpv.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#fefefe"
      bordercolor="#666666"
@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1010"
      id="namedview43"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="38.570849"
+     inkscape:cy="27.677386"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -42,15 +42,50 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs41">
     <linearGradient
+       id="linearGradient864"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop860"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop862" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop855" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop857" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient853"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop849"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop851" />
+    </linearGradient>
+    <linearGradient
        stop-color="#fff"
-       id="a">
+       id="a-3">
       <stop
          id="stop2"
          offset="0" />
@@ -75,7 +110,7 @@
        y1="20.221"
        x2="48"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#a-3"
        y2="138.66"
        id="p" />
     <clipPath
@@ -112,7 +147,7 @@
        gradientTransform="matrix(1.0571,0,0,1,11.126,9.5098)"
        x2="35.103"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#a-3"
        y2="34.886"
        id="o" />
     <linearGradient
@@ -120,7 +155,7 @@
        y1="48"
        x2="62.339"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#a-3"
        y2="-6.5482"
        id="n" />
     <linearGradient
@@ -161,14 +196,14 @@
        cx="48"
        cy="90.172"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#linearGradient864"
        id="c" />
     <linearGradient
        x1="36.357"
        y1="6"
        x2="36.357"
        gradientUnits="userSpaceOnUse"
-       xlink:href="#a"
+       xlink:href="#linearGradient853"
        y2="63.893"
        id="k" />
     <linearGradient
