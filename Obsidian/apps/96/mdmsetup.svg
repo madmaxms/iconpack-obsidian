@@ -12,7 +12,7 @@
    width="96"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="mdmsetup.svg">
   <metadata
      id="metadata138">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,11 +36,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1010"
      id="namedview136"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="45.146337"
+     inkscape:cx="12.21194"
      inkscape:cy="48.986596"
      inkscape:window-x="0"
      inkscape:window-y="32"
@@ -48,6 +48,18 @@
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
+    <linearGradient
+       stop-color="#fff"
+       id="linearGradient902">
+      <stop
+         id="stop898"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:1" />
+      <stop
+         id="stop900"
+         offset="1"
+         stop-opacity="0" />
+    </linearGradient>
     <linearGradient
        id="d"
        stop-color="#fff">
@@ -184,7 +196,7 @@
     <linearGradient
        id="l"
        y2="63.893"
-       xlink:href="#d"
+       xlink:href="#linearGradient902"
        gradientUnits="userSpaceOnUse"
        x2="36.357"
        y1="6"
