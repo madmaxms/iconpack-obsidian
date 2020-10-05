@@ -1,10 +1,13 @@
 all: remove_redundant_png dedup svgclean 
 dedup_dryrun:
-	rdfind -makesymlinks true -n true . 
+	rdfind . 
 dedup:
-	rdfind -makesymlinks true release .
+	rdfind -makesymlinks true .
+	symlinks -crv .
 remove_redundant_png:
-	echo "W.I.P."
+	fd -t f -g '*.png' | while read -r png; do \
+		["$$png"; \
+	done
 svgclean: 
 	mkdir -p release
 	cp -r Obsidian* release/
